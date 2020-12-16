@@ -7,7 +7,6 @@
   <component name="ChangeListManager">
     <list default="true" id="49b7f775-74a4-4861-9f48-d1bb8559b030" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.FlaskeAutomaten/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FlaskeAutomaten/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlaskeAutomaten/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FlaskeAutomaten/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +100,7 @@
       <workItem from="1608051930283" duration="9257000" />
       <workItem from="1608097089384" duration="102000" />
       <workItem from="1608098857056" duration="16525000" />
-      <workItem from="1608116617903" duration="3233000" />
+      <workItem from="1608116617903" duration="4665000" />
     </task>
     <servers />
   </component>
@@ -125,24 +124,5 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/TestCode/Program.cs</url>
-          <line>59</line>
-          <properties documentPath="C:\Users\flemm\RiderProjects\FlaskeAutomaten\TestCode\Program.cs" initialLine="59" containingFunctionPresentation="method 'Dequeue'">
-            <startOffsets>
-              <option value="1238" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1262" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
