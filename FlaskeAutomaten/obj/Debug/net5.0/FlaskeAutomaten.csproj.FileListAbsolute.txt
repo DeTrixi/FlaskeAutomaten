@@ -1,0 +1,16 @@
+C:\Users\flemm\RiderProjects\FlaskeAutomaten\FlaskeAutomaten\bin\Debug\net5.0\FlaskeAutomaten.exe
+C:\Users\flemm\RiderProjects\FlaskeAutomaten\FlaskeAutomaten\bin\Debug\net5.0\FlaskeAutomaten.deps.json
+C:\Users\flemm\RiderProjects\FlaskeAutomaten\FlaskeAutomaten\bin\Debug\net5.0\FlaskeAutomaten.runtimeconfig.json
+C:\Users\flemm\RiderProjects\FlaskeAutomaten\FlaskeAutomaten\bin\Debug\net5.0\FlaskeAutomaten.runtimeconfig.dev.json
+C:\Users\flemm\RiderProjects\FlaskeAutomaten\FlaskeAutomaten\bin\Debug\net5.0\FlaskeAutomaten.dll
+C:\Users\flemm\RiderProjects\FlaskeAutomaten\FlaskeAutomaten\bin\Debug\net5.0\ref\FlaskeAutomaten.dll
+C:\Users\flemm\RiderProjects\FlaskeAutomaten\FlaskeAutomaten\bin\Debug\net5.0\FlaskeAutomaten.pdb
+C:\Users\flemm\RiderProjects\FlaskeAutomaten\FlaskeAutomaten\obj\Debug\net5.0\FlaskeAutomaten.csprojAssemblyReference.cache
+C:\Users\flemm\RiderProjects\FlaskeAutomaten\FlaskeAutomaten\obj\Debug\net5.0\FlaskeAutomaten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flemm\RiderProjects\FlaskeAutomaten\FlaskeAutomaten\obj\Debug\net5.0\FlaskeAutomaten.AssemblyInfoInputs.cache
+C:\Users\flemm\RiderProjects\FlaskeAutomaten\FlaskeAutomaten\obj\Debug\net5.0\FlaskeAutomaten.AssemblyInfo.cs
+C:\Users\flemm\RiderProjects\FlaskeAutomaten\FlaskeAutomaten\obj\Debug\net5.0\FlaskeAutomaten.csproj.CoreCompileInputs.cache
+C:\Users\flemm\RiderProjects\FlaskeAutomaten\FlaskeAutomaten\obj\Debug\net5.0\FlaskeAutomaten.dll
+C:\Users\flemm\RiderProjects\FlaskeAutomaten\FlaskeAutomaten\obj\Debug\net5.0\ref\FlaskeAutomaten.dll
+C:\Users\flemm\RiderProjects\FlaskeAutomaten\FlaskeAutomaten\obj\Debug\net5.0\FlaskeAutomaten.pdb
+C:\Users\flemm\RiderProjects\FlaskeAutomaten\FlaskeAutomaten\obj\Debug\net5.0\FlaskeAutomaten.genruntimeconfig.cache
