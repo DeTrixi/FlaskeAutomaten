@@ -162,8 +162,6 @@ namespace FlaskeAutomaten
 
                         //Thread.Sleep(100);
                     }
-
-
                     Monitor.PulseAll(Sodas);
                     Monitor.Exit(Sodas);
                 } while (true);

@@ -6,34 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49b7f775-74a4-4861-9f48-d1bb8559b030" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/FlaskeAutomaten/bin/Debug/net5.0/FlaskeAutomaten.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskeAutomaten/bin/Debug/net5.0/FlaskeAutomaten.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskeAutomaten/bin/Debug/net5.0/FlaskeAutomaten.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskeAutomaten/bin/Debug/net5.0/FlaskeAutomaten.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskeAutomaten/bin/Debug/net5.0/FlaskeAutomaten.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskeAutomaten/bin/Debug/net5.0/FlaskeAutomaten.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskeAutomaten/bin/Debug/net5.0/ref/FlaskeAutomaten.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskeAutomaten/obj/Debug/net5.0/FlaskeAutomaten.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskeAutomaten/obj/Debug/net5.0/FlaskeAutomaten.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskeAutomaten/obj/Debug/net5.0/FlaskeAutomaten.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskeAutomaten/obj/Debug/net5.0/FlaskeAutomaten.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskeAutomaten/obj/Debug/net5.0/FlaskeAutomaten.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskeAutomaten/obj/Debug/net5.0/apphost.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskeAutomaten/obj/Debug/net5.0/ref/FlaskeAutomaten.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCode/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCode/TestCode.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCode/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCode/obj/Debug/net5.0/TestCode.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCode/obj/Debug/net5.0/TestCode.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCode/obj/Debug/net5.0/TestCode.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCode/obj/Debug/net5.0/TestCode.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCode/obj/TestCode.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCode/obj/TestCode.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCode/obj/TestCode.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCode/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCode/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCode/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCode/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FlaskeAutomaten/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FlaskeAutomaten/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlaskeAutomaten/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FlaskeAutomaten/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +101,7 @@
       <workItem from="1608051930283" duration="9257000" />
       <workItem from="1608097089384" duration="102000" />
       <workItem from="1608098857056" duration="16525000" />
-      <workItem from="1608116617903" duration="2474000" />
+      <workItem from="1608116617903" duration="3233000" />
     </task>
     <servers />
   </component>
